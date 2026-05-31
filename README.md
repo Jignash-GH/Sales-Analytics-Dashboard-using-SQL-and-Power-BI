@@ -3,10 +3,6 @@
 ### Project Overview
 Developed an automated sales analytics dashboard that processes 150,000+ transactions across 4 years, enabling real-time visibility into key performance metrics and market trends.
 
-
-## Video Demonstration (sound on)
-https://github.com/user-attachments/assets/99c10670-b09e-4514-b122-4a8113a7f4ba
-
 ## Business Impact
 - Automated manual reporting processes, reducing analysis time by 80%
 - Enabled real-time access to sales insights for stakeholders
@@ -41,7 +37,5 @@ Created an interactive Power BI dashboard featuring:
 3. Open sales_dashboard.pbix in Power BI Desktop
 4. Optional: For live data connection, update database credentials in Power BI settings
 
-### Dashboard Preview
-Link to the dashboard below. The web version might have some permission issues but you can try signing in with your Microsoft account. If it doesn't work feel free to download "sales_dashboard.pbix" in the repo, or watch the video demonstration :)   
-https://app.powerbi.com/groups/me/reports/0339065a-0d2d-4c41-bbcb-67992d310857/d5acb94c0200276b759c?experience=power-bi
+
 
